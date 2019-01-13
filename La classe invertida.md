@@ -2,9 +2,17 @@
 
 ## Matemàtiques semipresencials 1.1 S
 
-<table>
+<table style="background-color: yellow">
   <tr><th>Pautes</th></tr>
-  <tr><td style="background: yellow"><ul><li>Cerca els vídeos d’acord amb la data de la propera classe.</li><li>Mira els vídeos a l’ordinador de casa teva, al teu mòbil, a la biblioteca, etc.</lil><li>Prepara preguntes per fer el proper dia de classe. Poden ser dubtes o preguntes d’ampliació.</li><li>Ves a classe el dia assenyalat, demana les preguntes que tens preparades i atén a les noves explicacions.</li><li>Fes els exercicis que s’encomanin.</li></ul></td></tr>
+  <tr><td>
+    <ul>
+      <li>Cerca els vídeos d’acord amb la data de la propera classe.</li>
+      <li>Mira els vídeos a l’ordinador de casa teva, al teu mòbil, a la biblioteca, etc.</li>
+      <li>Prepara preguntes per fer el proper dia de classe. Poden ser dubtes o preguntes d’ampliació.</li>
+      <li>Ves a classe el dia assenyalat, demana les preguntes que tens preparades i atén a les noves explicacions.</li>
+      <li>Fes els exercicis que s’encomanin.</li>
+    </ul>
+    </td></tr>
   </table>
 
 ## Unitat 4
