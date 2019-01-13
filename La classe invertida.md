@@ -2,12 +2,9 @@
 
 ## Matemàtiques semipresencials 1.1 S
 
-Pautes
-* Cerca els vídeos d’acord amb la data de la propera classe.
-* Mira els vídeos a l’ordinador de casa teva, al teu mòbil, a la biblioteca, etc.
-* Prepara preguntes per fer el proper dia de classe. Poden ser dubtes o preguntes d’ampliació.
-* Ves a classe el dia assenyalat, demana les preguntes que tens preparades i atén a les noves explicacions.
-* Fes els exercicis que s’encomanin.
+| Pautes |
+| --- |
+| <ul><li>Cerca els vídeos d’acord amb la data de la propera classe.</li><li>Mira els vídeos a l’ordinador de casa teva, al teu mòbil, a la biblioteca, etc.</lil><li>Prepara preguntes per fer el proper dia de classe. Poden ser dubtes o preguntes d’ampliació.</li><li>Ves a classe el dia assenyalat, demana les preguntes que tens preparades i atén a les noves explicacions.</li><li>Fes els exercicis que s’encomanin.</li></ul> |
 
 ## Unitat 4
 
