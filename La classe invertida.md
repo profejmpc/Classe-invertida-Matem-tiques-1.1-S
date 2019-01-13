@@ -13,13 +13,13 @@ Pautes
 
 ### Vídeos per al 8 de gener
 
-* Què és mesurar? https://youtu.be/owSfqUciPFw
-* El sistema mètric decimal https://youtu.be/AuHrFG3nQw8
-* Canvis d’unitats https://youtu.be/st2Lxqi6qyw
+* [Què és mesurar?](https://youtu.be/owSfqUciPFw)
+* [El sistema mètric decimal](https://youtu.be/AuHrFG3nQw8)
+* [Canvis d’unitats](https://youtu.be/st2Lxqi6qyw)
 
 
 ### Vídeos per al 15 de gener
 
-* Mesures de superfície https://youtu.be/1QachLrobkU
-* Mesures de volum https://youtu.be/dR187ra5nSw
-* Equivalències d’unitats https://youtu.be/u_ojtvRv6sY
+* [Mesures de superfície](https://youtu.be/1QachLrobkU)
+* [Mesures de volum](https://youtu.be/dR187ra5nSw)
+* [Equivalències d’unitats](https://youtu.be/u_ojtvRv6sY)
